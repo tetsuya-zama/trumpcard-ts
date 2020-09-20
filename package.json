@@ -1,0 +1,10 @@
+{
+  "name": "trumpcard-ts",
+  "version": "0.0.1",
+  "description": "Trump Card Library for Typescript",
+  "main": "index.ts",
+  "repository": "https://github.com/tetsuya-zama/trumpcard-ts",
+  "author": "tetsuya-zama <tetsuya.zama@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
